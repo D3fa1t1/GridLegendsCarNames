@@ -52,13 +52,13 @@ e46 =
 eli = 
 evi = 
 exd = 
-f40 = Ferrari F40 LM
-fat = Ford Falcon FG X Supercar
-fc2 = Ford Focus TC-2
-fdi = Ferrari 365 GTB4 Competizione
-fei = Ferrari 512 BB LM
+f40 = Ferrari F40 LM #
+fat = Ford Falcon FG X Supercar #
+fc2 = Ford Focus TC-2 #
+fdi = Ferrari 365 GTB4 Competizione #
+fei = Ferrari 512 BB LM #
 ffe = 
-ffi = Ferrari F430 Challenge
+ffi = Ferrari F430 Challenge #
 fgg = 
 fhh = 
 flm = 
@@ -178,17 +178,17 @@ Dumont T36 Brawler Sport*
 Dumont T37 Wolf*
 Dumont Ute Titan*/***
 Ferrari 330 P4
-Ferrari 365 GTB4 Competizione
+#Ferrari 365 GTB4 Competizione
 Ferrari 488 GTE
-Ferrari 512 BB LM
+#Ferrari 512 BB LM
 Ferrari 599XX Evo
-Ferrari F40 LM
-Ferrari F430 Challenge
+#Ferrari F40 LM 
+#Ferrari F430 Challenge
 Ferrari FXX
 Ferrari FXX-K Evo
 Ford Capri Turbo Group 5
-Ford Falcon FG X Supercar
-Ford Focus TC-2
+#Ford Falcon FG X Supercar
+#Ford Focus TC-2
 Ford GT
 Ford GT GTE
 Ford GT40
