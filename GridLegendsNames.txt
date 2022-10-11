@@ -120,11 +120,11 @@ stt =
 tay = Porsche Taycan Turbo S
 trk = Dumont Colossus
 tus = Tushek TS 900 Racer Pro
-vac = 
-vag = 
-val = 
-vgt = 
-vig = 
+vac = Aston Martin Vulcan AMR Pro
+vag = Aston Martin Vantage GTE
+val = Aston Martin Valkyrie
+vgt = Volkswagen Golf GTI
+vig = SRT Viper GTS-R
 vul = 
 vwi = 
 wrx = 
@@ -139,9 +139,9 @@ Alpine A110 1800 Group 4
 Ariel Atom 3.5
 Aston Martin Valkyrie AMR Pro Concept
 Aston Martin Vantage GT4**
-Aston Martin Valkyrie
-Aston Martin Vantage GTE
-Aston Martin Vulcan AMR Pro
+
+
+
 Audi A4 quattro
 Audi S1 quattro Concept
 Audi RS 3 LMS
@@ -257,14 +257,14 @@ Renault Clio Cup
 
 Renault R.S. 01 
 Shelby Cobra 289 FIA
-SRT Viper GTS-R
+
 
 SUBARU BRZ Modified
 SUBARU IMPREZA WRX Tomei Cusco
 
 
 Volkswagen Cup Car
-Volkswagen Golf GTI**
+
 Volvo 850 Estate Touring Car
 ##########################################
 
