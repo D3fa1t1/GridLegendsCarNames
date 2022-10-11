@@ -58,13 +58,13 @@ fc2 = Ford Focus TC-2
 fdi = Ferrari 365 GTB4 Competizione
 fei = Ferrari 512 BB LM
 ffe = Beltra Icon Mk3
-ffi = 
+ffi = Beltra FZ – 73 FAF
 fgg = 
 fhh = Beltra Something something idk??
 flm = Beltra Enduro 24 T
 fm3 = Jupiter Formula X
 fmj = JEDI - F1000 SPEC
-ftr = 
+ftr = Dumont Stampede
 fur = Mazda Furai
 fxi = Ferrari FXX-K Evo
 fxx = Ferrari FXX
@@ -74,17 +74,17 @@ g55 = Ginetta G55 GT3
 g56 = Ginetta G56 GTA
 gg4 = Ginetta G40 GT5
 gt1 = 
-gt5 = 
-gta = 
-gth = 
+gt5 = NISSAN GT-R (SUPER GT GT500 Class Racing Car)
+gta = Alfa Romeo Giulia GTAm
+gth = Ford GT
 icv = 
-jip = 
-koa = 
+jip = Jaguar I-PACE eTrophy
+koa = Koenigsegg Agera RS
 koj = 
-ktm = 
+ktm = KTM X-BOW R
 lai = 
 lgt = 
-m1i = 
+m1i = BMW M1 Turbo Group 5
 m6g = 
 ma2 = 
 mci = 
@@ -134,7 +134,7 @@ zr1 =
 zxu = 
 
 Alfa Romeo 155 TS
-Alfa Romeo Giulia GTAm
+
 Alpine A110 1800 Group 4
 Ariel Atom 3.5
 Aston Martin Valkyrie AMR Pro Concept
@@ -149,12 +149,12 @@ Audi R8 1:1**
 Auto Gallery Nissan Skyline GT-R (R32) 
 
 Beltra Frostbite*/***
-Beltra FZ – 73 FAF*
+
 Beltra Hot Rod*/***
 
 Beltra Open Wheel*
 BMW E46 M3 GTR
-BMW M1 Turbo Group 5
+
 BMW M3 Touring Car
 BMW M6 GT3
 Brabham BT62
@@ -169,7 +169,7 @@ Chevrolet Corvette ZR1
 Datsun 240Z (S30) Modified
 Dodge Challenger SRT Demon
 Dumont Colossus*
-Dumont Stampede*
+
 Dumont T36 Brawler Sport*
 Dumont T37 Wolf*
 Dumont Ute Titan*/***
@@ -185,7 +185,7 @@ Ferrari F430 Challenge
 Ford Capri Turbo Group 5
 
 
-Ford GT
+
 Ford GT GTE
 
 Ford Mustang GT4
@@ -203,16 +203,16 @@ Honda Civic FD2
 Honda CRX MightyMouse
 Honda NSX-GT
 Honda S2000 Modified
-Jaguar I-PACE eTrophy
+
 
 Jupiter Classic Stock*
 Jupiter Eagleray Mk.5*/***
 Jupiter Freighter*/***
 
 Jupiter San Marino*
-Koenigsegg Agera RS
+
 Koenigsegg Jesko**
-KTM X-BOW R
+
 Lancia Delta HF Integrale Super Hatch
 Lancia Stratos
 Lotus Elise GT1
@@ -234,7 +234,7 @@ Nissan 300ZX (Z32) Modified
 Nissan 300ZX Turbo Le Mans
 Nissan 350Z (Z33) Gr.2
 Nissan 370Z Drift
-NISSAN GT-R (SUPER GT GT500 Class Racing Car)
+
 Nissan Silvia S15 Drift
 Nissan Silvia Time Attack Spec (S15)
 Nissan Skyline 2000GT-R (KPGC10) Modified
