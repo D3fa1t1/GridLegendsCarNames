@@ -57,7 +57,7 @@ fat = Ford Falcon FG X Supercar
 fc2 = Ford Focus TC-2
 fdi = Ferrari 365 GTB4 Competizione
 fei = Ferrari 512 BB LM
-ffe = 
+ffe = Beltra Icon Mk3
 ffi = 
 fgg = 
 fhh = Beltra Something something idk??
@@ -146,11 +146,11 @@ Audi S1 quattro Concept
 Audi RS 3 LMS
 Audi R8 1:1**
 Auto Gallery Nissan Skyline GT-R (R32) 
-Beltra Enduro 24 T*
+
 Beltra Frostbite*/***
 Beltra FZ – 73 FAF*
 Beltra Hot Rod*/***
-Beltra Icon Mk3*
+
 Beltra Open Wheel*
 BMW E46 M3 GTR
 BMW M1 Turbo Group 5
