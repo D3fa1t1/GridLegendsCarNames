@@ -2,31 +2,31 @@
 15d = Nissan Silvia S15 Drift
 15u = Nissan Silvia Time Attack Spec (S15) 
 17i = Porsche 917/30
-24u = 
-30t = 
+24u = Datsun 240Z (S30) Modified
+30t = Nissan 300ZX Turbo Le Mans
 33i = Ferrari 330 P4
-34t = 
-48g = 
-59i = 
-91g =
-91i =  
+34t = Nissan Skyline GT-R Time Attack (R34)
+48g = Ferrari 488 GTE
+59i = Ferrari 599XX Evo
+91g = Porsche 911 RSR
+91i = Porsche 911 Carrera RSR 3.0
 155 = Alfa Romeo 155 TS
-352 = 
-370 = 
-787 = 
-850 = 
-962 = 
-991 = 
-997 = 
-a4q = 
-acg = 
-alm = 
-amg = 
+352 = Nissan 350Z (Z33) Gr.2
+370 = Nissan 370Z Drift
+787 = Mazda 787B
+850 = Volvo 850 Estate Touring Car
+962 = Porsche 962C
+991 = Porsche 911 GT3 RS (991.1)
+997 = Porsche 911 GT4 (997)
+a4q = Audi A4 quattro
+acg = Acura ARX-05 (DPi)
+alm = Alpine A110 1800 Group 4
+amg = Aston Martin Vantage GT4
 ast = 
-at5 = 
-auh = 
+at5 = Ariel Atom 3.5
+auh = Audi RS 3 LMS
 aut = 
-bra = 
+bra = Brabham BT62
 bru = 
 bug = 
 cag = 
@@ -137,16 +137,16 @@ zxu =
 
 
 
-Alpine A110 1800 Group 4
-Ariel Atom 3.5
-
-Aston Martin Vantage GT4**
 
 
 
-Audi A4 quattro
+
+
+
+
+
 Audi S1 quattro Concept
-Audi RS 3 LMS
+
 
 Auto Gallery Nissan Skyline GT-R (R32) 
 
@@ -159,7 +159,7 @@ BMW E46 M3 GTR
 
 BMW M3 Touring Car
 
-Brabham BT62
+
 Bugatti Veyron 16.4 Super Sport
 Cadillac DPi-V.R
 Chevrolet Camaro GT4.R
@@ -168,7 +168,7 @@ Chevrolet Camaro Super Tourer
 Chevrolet Camaro Z28 Modified
 Chevrolet Corvette C7.R
 Chevrolet Corvette ZR1
-Datsun 240Z (S30) Modified
+
 Dodge Challenger SRT Demon
 
 
@@ -177,9 +177,9 @@ Dodge Challenger SRT Demon
 Dumont Ute Titan*/***
 
 
-Ferrari 488 GTE
 
-Ferrari 599XX Evo
+
+
 
 Ferrari F430 Challenge
 
@@ -220,7 +220,7 @@ Lancia Stratos
 
 Lotus Elise S Cup R
 Lotus Evija
-Mazda 787B
+
 
 
 Mazda RX-7 FD3S Drift-Tuned
@@ -232,27 +232,27 @@ Mitsubishi Lancer Evolution VI Time Attack
 Mitsubishi Lancer Evolution IX Time Attack
 Mitsubishi Lancer Evolution X Drift-Tuned
 Nissan 300ZX (Z32) Modified
-Nissan 300ZX Turbo Le Mans
-Nissan 350Z (Z33) Gr.2
-Nissan 370Z Drift
 
 
 
 
 
-Nissan Skyline GT-R Time Attack (R34)
+
+
+
+
 Opel Astra V8 Coupé
 
 
 
-Porsche 911 Carrera RSR 3.0
-Porsche 911 GT4 (997)
+
+
 Porsche 911 GT1
-Porsche 911 GT3 RS (991.1)
-Porsche 911 RSR
+
+
 
 Porsche 935/78 Group 5 "Moby Dick"
-Porsche 962C**
+
 
 Renault Clio Cup
 
@@ -267,7 +267,7 @@ SUBARU BRZ Modified
 
 
 
-Volvo 850 Estate Touring Car
+
 ##########################################
 
 
