@@ -62,16 +62,17 @@ ffi =
 fgg = 
 fhh = Beltra Something something idk??
 flm = Beltra Enduro 24 T
-fm3 = 
+fm3 = Jupiter Formula X
+fmj = JEDI - F1000 SPEC
 ftr = 
-fur = 
-fxi = 
-fxx = 
-g40 = 
-g54 = 
-g55 = 
-g56 = 
-gg4 = 
+fur = Mazda Furai
+fxi = Ferrari FXX-K Evo
+fxx = Ferrari FXX
+g40 = Ford GT40
+g54 = Ginetta G55 GT4
+g55 = Ginetta G55 GT3
+g56 = Ginetta G56 GTA
+gg4 = Ginetta G40 GT5
 gt1 = 
 gt5 = 
 gta = 
@@ -179,8 +180,8 @@ Ferrari 488 GTE
 Ferrari 599XX Evo
 
 Ferrari F430 Challenge
-Ferrari FXX
-Ferrari FXX-K Evo
+
+
 Ford Capri Turbo Group 5
 
 
@@ -193,21 +194,21 @@ Ford Mustang Shelby GT500
 Ford Sierra RS500 Cosworth
 Ford Sierra RS500 Cosworth Group A
 Ford TFZ-P1 (Fordzilla)*
-Ginetta G40 GT5
-Ginetta G55 GT3
-Ginetta G55 GT4**
-Ginetta G56 GTA
+
+
+
+
 Holden ZB Commodore Supercar
 Honda Civic FD2
 Honda CRX MightyMouse
 Honda NSX-GT
 Honda S2000 Modified
 Jaguar I-PACE eTrophy
-JEDI - F1000 SPEC
+
 Jupiter Classic Stock*
 Jupiter Eagleray Mk.5*/***
 Jupiter Freighter*/***
-Jupiter Formula X*
+
 Jupiter San Marino*
 Koenigsegg Agera RS
 Koenigsegg Jesko**
@@ -218,7 +219,7 @@ Lotus Elise GT1
 Lotus Elise S Cup R
 Lotus Evija
 Mazda 787B
-Mazda Furai
+
 Mazda MX-5
 Mazda RX-7 FD3S Drift-Tuned
 Mazda RX-7 Panspeed
