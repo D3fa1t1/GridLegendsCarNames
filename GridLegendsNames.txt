@@ -87,24 +87,24 @@ lgt = Lotus Elise GT1
 m1i = BMW M1 Turbo Group 5
 m6g = BMW M6 GT3
 ma2 = Ford Mustang Mach 1 Modified
-mci = 
-mgt = 
-mih = 
-min = 
-msh = 
-mx5 = 
-nst = 
-ova = 
+mci = McLaren M8D
+mgt = Ford Mustang GT4
+mih = MINI Hatch JCW
+min = MINI Miglia Challenge
+msh = Ford Mustang Shelby GT500
+mx5 = Mazda MX-5
+nst = Honda NSX-GT
+ova = Jupiter Classic Stock
 pae = 
-pfb = 
+pfb = Pontiac Firebird Modified
 pk1 = Dumont T37 Wolf
 plm = 
 poi = 
 r3b = 
-r8u = 
-r26 = 
-r32 = 
-res = 
+r8u = Audi R8 1:1
+r26 = Renault R26
+r32 = Nissan Skyline GT-R Group A (R32)
+res = Renault R.S. 01 
 rki = 
 rx2 = 
 rxm = 
@@ -145,7 +145,7 @@ Aston Martin Vulcan AMR Pro
 Audi A4 quattro
 Audi S1 quattro Concept
 Audi RS 3 LMS
-Audi R8 1:1**
+
 Auto Gallery Nissan Skyline GT-R (R32) 
 
 
@@ -188,9 +188,9 @@ Ford Capri Turbo Group 5
 
 Ford GT GTE
 
-Ford Mustang GT4
 
-Ford Mustang Shelby GT500
+
+
 Ford Sierra RS500 Cosworth
 Ford Sierra RS500 Cosworth Group A
 Ford TFZ-P1 (Fordzilla)*
@@ -201,11 +201,11 @@ Ford TFZ-P1 (Fordzilla)*
 Holden ZB Commodore Supercar
 Honda Civic FD2
 Honda CRX MightyMouse
-Honda NSX-GT
+
 Honda S2000 Modified
 
 
-Jupiter Classic Stock*
+
 Jupiter Eagleray Mk.5*/***
 Jupiter Freighter*/***
 
@@ -220,13 +220,12 @@ Lotus Elise S Cup R
 Lotus Evija
 Mazda 787B
 
-Mazda MX-5
+
 Mazda RX-7 FD3S Drift-Tuned
 Mazda RX-7 Panspeed
 MCA Hammerhead Nissan Silvia (S13)
-McLaren M8D
-MINI Hatch JCW
-MINI Miglia Challenge
+
+
 Mitsubishi Lancer Evolution VI Time Attack
 Mitsubishi Lancer Evolution IX Time Attack
 Mitsubishi Lancer Evolution X Drift-Tuned
@@ -238,12 +237,12 @@ Nissan 370Z Drift
 Nissan Silvia S15 Drift
 Nissan Silvia Time Attack Spec (S15)
 Nissan Skyline 2000GT-R (KPGC10) Modified
-Nissan Skyline GT-R Group A (R32)
+
 Nissan Skyline GT-R Time Attack (R34)
 Opel Astra V8 Coupé
 Pagani Zonda Revolución
 Panoz GTR-1
-Pontiac Firebird Modified
+
 Porsche 911 Carrera RSR 3.0
 Porsche 911 GT4 (997)
 Porsche 911 GT1
@@ -255,7 +254,7 @@ Porsche 962C**
 Porsche Taycan Turbo S
 Renault Clio Cup
 
-Renault R26
+
 Renault R.S. 01 
 Shelby Cobra 289 FIA
 SRT Viper GTS-R
