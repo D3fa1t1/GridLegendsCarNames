@@ -120,16 +120,16 @@ stt =
 tay = Porsche Taycan Turbo S
 trk = Dumont Colossus
 tus = Tushek TS 900 Racer Pro
-vac = Aston Martin Vulcan AMR Pro
+vac = Aston Martin Valkyrie AMR Pro Concept
 vag = Aston Martin Vantage GTE
 val = Aston Martin Valkyrie
 vgt = Volkswagen Golf GTI
 vig = SRT Viper GTS-R
-vul = 
-vwi = 
-wrx = 
-zil = 
-zon = 
+vul = Aston Martin Vulcan AMR Pro
+vwi = Volkswagen Cup Car
+wrx = SUBARU IMPREZA WRX Tomei Cusco
+zil = Ford TFZ-P1 (Fordzilla)
+zon = Pagani Zonda Revolución
 zr1 = 
 zxu = 
 
@@ -137,7 +137,7 @@ Alfa Romeo 155 TS
 
 Alpine A110 1800 Group 4
 Ariel Atom 3.5
-Aston Martin Valkyrie AMR Pro Concept
+
 Aston Martin Vantage GT4**
 
 
@@ -193,7 +193,7 @@ Ford Capri Turbo Group 5
 
 Ford Sierra RS500 Cosworth
 
-Ford TFZ-P1 (Fordzilla)*
+
 
 
 
@@ -240,7 +240,7 @@ Nissan Silvia Time Attack Spec (S15)
 
 Nissan Skyline GT-R Time Attack (R34)
 Opel Astra V8 Coupé
-Pagani Zonda Revolución
+
 
 
 Porsche 911 Carrera RSR 3.0
@@ -260,10 +260,10 @@ Shelby Cobra 289 FIA
 
 
 SUBARU BRZ Modified
-SUBARU IMPREZA WRX Tomei Cusco
 
 
-Volkswagen Cup Car
+
+
 
 Volvo 850 Estate Touring Car
 ##########################################
