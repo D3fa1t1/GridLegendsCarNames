@@ -1,14 +1,16 @@
 13u = 
-15d = 
-17i = 
+15d = Nissan Silvia S15 Drift
+15u = Nissan Silvia Time Attack Spec (S15) 
+17i = Porsche 917/30
 24u = 
 30t = 
 33i = Ferrari 330 P4
 34t = 
 48g = 
 59i = 
-91g = 
-155 = 
+91g =
+91i =  
+155 = Alfa Romeo 155 TS
 352 = 
 370 = 
 787 = 
@@ -133,7 +135,7 @@ zon = Pagani Zonda Revolución
 zr1 = 
 zxu = 
 
-Alfa Romeo 155 TS
+
 
 Alpine A110 1800 Group 4
 Ariel Atom 3.5
@@ -234,8 +236,8 @@ Nissan 300ZX Turbo Le Mans
 Nissan 350Z (Z33) Gr.2
 Nissan 370Z Drift
 
-Nissan Silvia S15 Drift
-Nissan Silvia Time Attack Spec (S15)
+
+
 
 
 Nissan Skyline GT-R Time Attack (R34)
@@ -248,14 +250,14 @@ Porsche 911 GT4 (997)
 Porsche 911 GT1
 Porsche 911 GT3 RS (991.1)
 Porsche 911 RSR
-Porsche 917/30
+
 Porsche 935/78 Group 5 "Moby Dick"
 Porsche 962C**
 
 Renault Clio Cup
 
 
-Renault R.S. 01 
+
 Shelby Cobra 289 FIA
 
 
