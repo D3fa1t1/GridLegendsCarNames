@@ -59,7 +59,7 @@ fdi = Ferrari 365 GTB4 Competizione
 fei = Ferrari 512 BB LM
 ffe = Beltra Icon Mk3
 ffi = Beltra FZ – 73 FAF
-fgg = 
+fgg = Ford GT GTE
 fhh = Beltra Something something idk??
 flm = Beltra Enduro 24 T
 fm3 = Jupiter Formula X
@@ -95,7 +95,7 @@ msh = Ford Mustang Shelby GT500
 mx5 = Mazda MX-5
 nst = Honda NSX-GT
 ova = Jupiter Classic Stock
-pae = 
+pae = Panoz GTR-1
 pfb = Pontiac Firebird Modified
 pk1 = Dumont T37 Wolf
 plm = ::EMPTYSCENE::
@@ -112,14 +112,14 @@ rzd = SUBARU BRZ Drift-Tuned
 s2m = Honda S2000 Modified
 sc2 = SUBARU WRX STI TC-2
 sku = Nissan Skyline 2000GT-R (KPGC10) Modified
-smo = 
-srs = 
-sta = 
+smo = Jupiter San Marino (Oval Stock)
+srs = Ford Sierra RS500 Cosworth Group A
+sta = Dumont T36 Brawler Sport
 stk = 
 stt = 
-tay = 
-trk = 
-tus = 
+tay = Porsche Taycan Turbo S
+trk = Dumont Colossus
+tus = Tushek TS 900 Racer Pro
 vac = 
 vag = 
 val = 
@@ -168,9 +168,9 @@ Chevrolet Corvette C7.R
 Chevrolet Corvette ZR1
 Datsun 240Z (S30) Modified
 Dodge Challenger SRT Demon
-Dumont Colossus*
 
-Dumont T36 Brawler Sport*
+
+
 
 Dumont Ute Titan*/***
 
@@ -186,13 +186,13 @@ Ford Capri Turbo Group 5
 
 
 
-Ford GT GTE
+
 
 
 
 
 Ford Sierra RS500 Cosworth
-Ford Sierra RS500 Cosworth Group A
+
 Ford TFZ-P1 (Fordzilla)*
 
 
@@ -209,7 +209,7 @@ Honda CRX MightyMouse
 Jupiter Eagleray Mk.5*/***
 Jupiter Freighter*/***
 
-Jupiter San Marino*
+
 
 
 
@@ -241,7 +241,7 @@ Nissan Silvia Time Attack Spec (S15)
 Nissan Skyline GT-R Time Attack (R34)
 Opel Astra V8 Coupé
 Pagani Zonda Revolución
-Panoz GTR-1
+
 
 Porsche 911 Carrera RSR 3.0
 Porsche 911 GT4 (997)
@@ -251,7 +251,7 @@ Porsche 911 RSR
 Porsche 917/30
 Porsche 935/78 Group 5 "Moby Dick"
 Porsche 962C**
-Porsche Taycan Turbo S
+
 Renault Clio Cup
 
 
@@ -262,7 +262,7 @@ SRT Viper GTS-R
 SUBARU BRZ Modified
 SUBARU IMPREZA WRX Tomei Cusco
 
-Tushek TS 900 Racer Pro
+
 Volkswagen Cup Car
 Volkswagen Golf GTI**
 Volvo 850 Estate Touring Car
