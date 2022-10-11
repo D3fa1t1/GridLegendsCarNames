@@ -57,7 +57,7 @@ fat = Ford Falcon FG X Supercar #
 fc2 = Ford Focus TC-2 #
 fdi = Ferrari 365 GTB4 Competizione #
 fei = Ferrari 512 BB LM #
-ffe = 
+ffe = Beltra Icon Mk3 #
 ffi = Ferrari F430 Challenge #
 fgg = 
 fhh = 
@@ -155,7 +155,7 @@ Beltra Enduro 24 T*
 Beltra Frostbite*/***
 Beltra FZ – 73 FAF*
 Beltra Hot Rod*/***
-Beltra Icon Mk3*
+#Beltra Icon Mk3*
 Beltra Open Wheel*
 BMW E46 M3 GTR
 BMW M1 Turbo Group 5
