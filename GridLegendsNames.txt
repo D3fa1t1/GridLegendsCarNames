@@ -22,24 +22,24 @@ a4q = Audi A4 quattro
 acg = Acura ARX-05 (DPi)
 alm = Alpine A110 1800 Group 4
 amg = Aston Martin Vantage GT4
-ast = 
+ast = Opel Astra V8 Coupé
 at5 = Ariel Atom 3.5
-auh = Audi RS 3 LMS
-aut = 
+auh = Audi S1 quattro Concept
+aut = Audi RS 3 LMS
 bra = Brabham BT62
 bru = 
-bug = 
-cag = 
-cai = 
-cc4 = 
+bug = Bugatti Veyron 16.4 Super Sport
+cag = Cadillac DPi-V.R
+cai = Ford Capri Turbo Group 5
+cc4 = Chevrolet Camaro GT4.R
 civ = 
 cob = 
-cog = 
-coi = 
-cot = 
+cog = Chevrolet Corvette C7.R
+coi = Ford Sierra RS500 Cosworth
+cot = Holden ZB Commodore Supercar
 cru = 
-csm = 
-cst = 
+csm = Chevrolet Camaro SSX Concept
+cst = Chevrolet Camaro Super Tourer
 cup = 
 czm = 
 dcd = 
@@ -145,7 +145,7 @@ zxu =
 
 
 
-Audi S1 quattro Concept
+
 
 
 Auto Gallery Nissan Skyline GT-R (R32) 
@@ -160,13 +160,13 @@ BMW E46 M3 GTR
 BMW M3 Touring Car
 
 
-Bugatti Veyron 16.4 Super Sport
-Cadillac DPi-V.R
-Chevrolet Camaro GT4.R
-Chevrolet Camaro SSX Concept
-Chevrolet Camaro Super Tourer
+
+
+
+
+
 Chevrolet Camaro Z28 Modified
-Chevrolet Corvette C7.R
+
 Chevrolet Corvette ZR1
 
 Dodge Challenger SRT Demon
@@ -184,7 +184,6 @@ Dumont Ute Titan*/***
 Ferrari F430 Challenge
 
 
-Ford Capri Turbo Group 5
 
 
 
@@ -193,14 +192,15 @@ Ford Capri Turbo Group 5
 
 
 
-Ford Sierra RS500 Cosworth
 
 
 
 
 
 
-Holden ZB Commodore Supercar
+
+
+
 Honda Civic FD2
 Honda CRX MightyMouse
 
