@@ -46,7 +46,7 @@ dcd = Dodge Challenger SRT Demon
 dco = Beltra Hot Rod
 del = Lancia Delta HF Integrale Super Hatch
 dtr = Dumont Ute Titan
-dva = 
+dva = Jupiter Freighter
 e3t = BMW M3 Touring Car
 e6u = Mitsubishi Lancer Evolution VI Time Attack
 e9u = Mitsubishi Lancer Evolution IX Time Attack
@@ -109,7 +109,7 @@ r32 = Nissan Skyline GT-R Group A (R32)
 res = Renault R.S. 01 
 rki = Beltra Open Wheel
 rx2 = Mazda RX-7 Panspeed
-rxm = 
+rxm = Mazda RX-7 FD3S Drift-Tuned
 rzd = SUBARU BRZ Drift-Tuned
 s2m = Honda S2000 Modified
 sc2 = SUBARU WRX STI TC-2
@@ -117,8 +117,8 @@ sku = Nissan Skyline 2000GT-R (KPGC10) Modified
 smo = Jupiter San Marino (Oval Stock)
 srs = Ford Sierra RS500 Cosworth Group A
 sta = Dumont T36 Brawler Sport
-stk = 
-stt = 
+stk = Jupiter Eagleray Mk.5
+stt = Lancia Stratos
 tay = Porsche Taycan Turbo S
 trk = Dumont Colossus
 tus = Tushek TS 900 Racer Pro
@@ -135,28 +135,7 @@ zon = Pagani Zonda Revolución
 zr1 = Chevrolet Corvette ZR1
 zxu = 
 
-
+cant find:
 Auto Gallery Nissan Skyline GT-R (R32) 
-
 Ferrari F430 Challenge
-
-Jupiter Eagleray Mk.5*/***
-Jupiter Freighter*/***
-
-Lancia Stratos
-
-Mazda RX-7 FD3S Drift-Tuned
-
 SUBARU BRZ Modified
-
-##########################################
-
-
-
-
-
-*Fiktionale Wagen
-
-**Exklusiv zum Vorbestellen
-
-***DLC nach Start des Spiels
